@@ -36,3 +36,4 @@ class LinearSearchTest {
         assert(linearSearch(array, key) == 4)
     }
 }
+ 
